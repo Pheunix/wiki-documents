@@ -97,7 +97,7 @@ Reference
 
 | Command        | Description                                    |
 |----------------|------------------------------------------------|
-| AT+NMAEabcdefg | Set device name as “abcdefg”.Max length is 12. |
+| AT+NAMEabcdefg | Set device name as “abcdefg”.Max length is 12. |
 
 **4. Set PINCODE**
 
